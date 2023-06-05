@@ -34,6 +34,6 @@ sudo dd if=./build/iso/os.iso of=/dev/sdx
 
 <img src="img/grub.png" style="width:700px; height:400px;">
 
-<img src="img/os.png" style="width:700px; height:400px;">
+<img src="img/so.png" style="width:700px; height:400px;">
 
 <img src="img/kernel_panic.png" style="width:700px; height:400px;">
