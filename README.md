@@ -7,7 +7,7 @@ antes de tudo, devo esclarecer que este "sistema operacional" não passa de um k
     <li>mapeia instruções</li>
     <li>habilita o uso de um teclado</li>
 </ul>
-este "sistema operacional" conta com poucas funções pelo fato de que este foi o meu primeiro projeto na área de OSdev (desenvolvimento de sistemas operacionais), portanto, está limitado ao conhecimento que eu tinha na época de sua criação (meio do ano 2021).
+este "sistema operacional" conta com poucas funções pelo fato de que este foi o meu primeiro projeto na área de OSdev, portanto, está limitado ao conhecimento que eu tinha na época de sua criação (meio do ano 2021).
 
 # comandos
 
